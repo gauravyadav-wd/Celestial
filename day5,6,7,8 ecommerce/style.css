@@ -47,6 +47,9 @@ nav {
   font-size: 16px;
   margin: 0;
 }
+.nav-items a {
+  padding: 8px;
+}
 
 .nav-item {
   list-style: none;
