@@ -48,12 +48,12 @@ nav {
   margin: 0;
 }
 .nav-items a {
-  padding: 8px;
+  padding: 10px;
 }
 
 .nav-item {
   list-style: none;
-  padding: 10px;
+  padding: 5px;
   transition: 0.3s;
   border-radius: 10px;
 }
